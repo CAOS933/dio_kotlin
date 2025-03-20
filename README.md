@@ -1,2 +1,2 @@
 # dio_kotlin
-Desafio desenvolvimento Kotlin
+Projeto de criação Git e Kotlin
